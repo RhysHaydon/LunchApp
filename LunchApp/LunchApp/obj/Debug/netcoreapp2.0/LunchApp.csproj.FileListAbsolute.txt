@@ -1,0 +1,11 @@
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\bin\Debug\netcoreapp2.0\LunchApp.deps.json
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\bin\Debug\netcoreapp2.0\LunchApp.runtimeconfig.json
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\bin\Debug\netcoreapp2.0\LunchApp.runtimeconfig.dev.json
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\bin\Debug\netcoreapp2.0\LunchApp.dll
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\bin\Debug\netcoreapp2.0\LunchApp.pdb
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\obj\Debug\netcoreapp2.0\LunchApp.csprojResolveAssemblyReference.cache
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\obj\Debug\netcoreapp2.0\LunchApp.csproj.CoreCompileInputs.cache
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\obj\Debug\netcoreapp2.0\LunchApp.AssemblyInfoInputs.cache
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\obj\Debug\netcoreapp2.0\LunchApp.AssemblyInfo.cs
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\obj\Debug\netcoreapp2.0\LunchApp.dll
+C:\Users\3127\Documents\GitHub\LunchApp\LunchApp\LunchApp\obj\Debug\netcoreapp2.0\LunchApp.pdb
